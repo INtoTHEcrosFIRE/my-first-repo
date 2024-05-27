@@ -3,7 +3,8 @@
 
 #files
 *.css
-*.js
+app1.js
+app2.js
 
 #misc 
 .vscode
